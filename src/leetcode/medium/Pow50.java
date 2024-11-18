@@ -4,7 +4,8 @@ public class Pow50 {
 
 	public static void main(String[] args) {
 		double x = 2.00000;
-		int n = -2147483648;
+		//int n = -2147483648;
+		int n = 22;
 		System.out.println(myPow(x, n));
 
 	}
