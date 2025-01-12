@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/myLocalLeetcode.iml" filepath="$PROJECT_DIR$/myLocalLeetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twopointer.iml" filepath="$PROJECT_DIR$/twopointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twopointer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/twopointer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twopointer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/twopointer.test.iml" />
     </modules>
   </component>
 </project>

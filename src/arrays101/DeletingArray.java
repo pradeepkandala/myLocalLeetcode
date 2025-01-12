@@ -12,9 +12,9 @@ public class DeletingArray {
 	public static int removeDuplicates(int[] nums) {
 		 int i = 0;
 		    for (int n : nums) {
-		    	System.out.println("value of n: " +n);
+
 		    	if (i == 0 || n > nums[i-1]) {
-		    		System.out.println("value of operated n: " +n);
+
 		    		nums[i++] = n;
 		    	}
 		            
